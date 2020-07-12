@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PriorityToDoList/static/css/main.d528fc9d.chunk.css",
+    "main.js": "/PriorityToDoList/static/js/main.5daae258.chunk.js",
+    "main.js.map": "/PriorityToDoList/static/js/main.5daae258.chunk.js.map",
+    "runtime-main.js": "/PriorityToDoList/static/js/runtime-main.2e6defec.js",
+    "runtime-main.js.map": "/PriorityToDoList/static/js/runtime-main.2e6defec.js.map",
+    "static/js/2.91413049.chunk.js": "/PriorityToDoList/static/js/2.91413049.chunk.js",
+    "static/js/2.91413049.chunk.js.map": "/PriorityToDoList/static/js/2.91413049.chunk.js.map",
+    "index.html": "/PriorityToDoList/index.html",
+    "precache-manifest.da9c39c7a3df4cf3e1d7d8085b994d64.js": "/PriorityToDoList/precache-manifest.da9c39c7a3df4cf3e1d7d8085b994d64.js",
+    "service-worker.js": "/PriorityToDoList/service-worker.js",
+    "static/css/main.d528fc9d.chunk.css.map": "/PriorityToDoList/static/css/main.d528fc9d.chunk.css.map",
+    "static/js/2.91413049.chunk.js.LICENSE.txt": "/PriorityToDoList/static/js/2.91413049.chunk.js.LICENSE.txt",
+    "static/media/check-solid.svg": "/PriorityToDoList/static/media/check-solid.1f713fac.svg",
+    "static/media/times-solid.svg": "/PriorityToDoList/static/media/times-solid.aa97bc00.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6defec.js",
+    "static/js/2.91413049.chunk.js",
+    "static/css/main.d528fc9d.chunk.css",
+    "static/js/main.5daae258.chunk.js"
+  ]
+}
